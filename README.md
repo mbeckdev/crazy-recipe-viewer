@@ -2,7 +2,7 @@
 
 I had a crazy idea that you see a recipe in a type of infographic-like way.
 
-Eventually, take a recipe and enter it. Then it spits out in steps organized differently, more visually. And more closer to real life time.
+Eventually, take a recipe and enter it. Then it spits out in steps organized differently, more visually. And more closer to real life time. Practically an infographic for a recipe.
 
 Many times I'll be doing something and it says, now add the rest of the butter. I'm like, oh geez, how much butter is that? So I have to reread the ingredients list, and reread the other steps, then calculate how much butter that is because I wasn't experienced enough to take it all out at the beginning.
 
